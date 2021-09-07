@@ -1,4 +1,4 @@
-module github.com/Tareya/configmap-demo
+module github.com/tareya/configmap-demo
 
 go 1.16
 
