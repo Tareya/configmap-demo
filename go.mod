@@ -4,7 +4,6 @@ go 1.16
 
 require (
 	github.com/google/go-cmp v0.4.0 // indirect
-  github.com/Tareya/configmap-demo master
 	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
 	k8s.io/api v0.18.18
 	k8s.io/apimachinery v0.18.18
